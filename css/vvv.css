@@ -1,0 +1,512 @@
+/*start body*/
+body{
+    
+}
+/*end body*/
+.container{
+    
+    width:1000px;
+    margin:auto;
+    overflow: hidden;
+    padding: 0px
+    
+        
+}
+.clearfix{clear:both}
+
+.slider{
+    height: 600px;
+    
+    margin: :0px;
+
+    background-image: url("../image/call.jpg");
+    background-size: cover;
+     color: #fff;
+
+    text-align:center
+   
+}
+.slider .myslider {
+    padding-top:200px
+  
+}
+.slider .myslider h1{
+    font-size:50px;
+    width:470px;
+    margin: auto auto 20px auto;
+    border-top:3px solid #fff;
+    border-bottom:3px solid #fff;
+}
+.slider .myslider button{
+    
+    background:none;
+    color: aliceblue;
+    padding: 7px 25px;
+    border:2.5px solid #fff
+}
+
+/*start navbar*/
+.navbar{
+   background-color: #252F31;
+    color:#fff;
+    overflow: hidden;
+    
+        
+    
+}
+
+.navbar .f{
+    background-color: #455052;
+    margin-right: 10px;
+    padding: 0px 10px;
+    width: 10px;
+    
+          
+}
+.navbar  h2 span{
+    color:#064928
+  
+}
+
+
+ul{
+    
+ list-style:none;
+    padding-left:0px;
+    overflow:hidden;
+    
+
+    
+}
+.navbar ul li{
+    
+        padding:10px;
+   
+}
+.navbar li a{
+   color: aliceblue;
+     text-decoration: none   
+    
+}
+.navbar .home { float: right}
+.navbar .home a, .navbar li a:hover{color:#064928}
+
+
+/*end navbar*/
+/*start feature*/
+.feature{
+    
+   
+    overflow:hidden;
+   
+     
+}
+.feature .left{
+    
+   
+    width: 33.333333%;
+    line-height: 25px;
+    margin: 60px 0px;
+    padding: 10x
+    
+     
+    
+    
+}
+
+
+/*end feature*/
+
+/*start aboutme*/
+.aboutme{
+    
+    
+    background-color: #F2F2F2;
+        overflow:hidden;
+    padding: 0px
+    
+}
+.aboutme .img{
+    height:488px;
+
+  
+    width: 40%
+    
+    
+}
+.aboutme  .myabout .img img{width: 100%; height: 100%}
+.aboutme .about{
+ 
+
+    width: 60%;
+    
+}
+
+.aboutme .about  .my h2{
+  margin: 40px 0px 20px 40px;
+    
+}
+.aboutme .about  .my p{
+   margin: 0px 0px 10px 40px;
+   
+}
+.aboutme .about .small{
+    padding: 20px 0 0 39px;
+    color: #B7B7B7
+}
+.aboutme .about .pag{
+    overflow: hidden;
+    
+    margin:30px 0 0 40px
+}
+.aboutme .about .pag .ico .myico {
+    width: 12%;
+     
+    margin: 0 15px 0 0;
+}
+.aboutme .about .pag .ico .myico img{
+  
+   
+    max-width: 100%;
+    
+    
+    margin: 15px 0px 0px 0px;
+    
+}
+.aboutme .about .pag .ico .ourico{ 
+   
+    width: 79%;
+    
+    
+}
+.aboutme .about .pag h3{
+    
+    margin: 0px
+}
+
+
+
+.aboutme .about .pag > div{
+    
+    
+   
+    width: 50%;
+    overflow: hidden
+        
+        
+}
+
+/*end aboutme*/
+/*start sklise*/
+.mysklise{
+    
+    overflow: hidden;
+    margin: 50px 0 60px 0
+        
+}
+.mysklise .sklise{
+  
+    width: 50%
+        
+        
+}
+
+.mysklise .sklise button{
+    background: none;
+    border: 2px solid #2ACE6F;
+    color:  #2ACE6F;
+    margin-top:30px;
+    height: 30px
+    
+}
+.mysklise .skli {
+    
+    float: left;
+    width: 50%;
+    
+        
+}
+.mysklise .skli h3{
+    
+    margin: 0px;
+    padding: 25px 0px 13px ;
+    
+}
+.mysklise .skli .button{
+    background-color: #F1F1F1;
+    color: #F1F1F1;
+    overflow: hidden;
+   
+    height: 20px;
+    
+}
+.mysklise .skli .button span{
+    background-color:  #2ACE6F;
+   display: block;
+    text-align: right;
+    line-height: 20px;
+    height: 25px;
+    font-weight: bold
+    
+}
+/*end sklise*/
+
+/*start resume*/
+.resume{
+    background-color:#F2F2F2;
+    padding-top:30px;
+    padding-bottom: 30px;
+    text-align:center;
+    padding-bottom: 60px
+}
+
+.resume button{
+    
+    background-color: none;
+    border: 2px solid #2ACE6F;
+    color:#2ACE6F;
+    width: 100px;
+    height: 30px
+    
+}
+
+
+/*end resume*/
+/*start educatino*/
+.educatino{
+    
+    overflow: hidden
+    
+}
+.educatino .myeducation{
+    
+    float: left;
+    
+    width: 50%
+        
+}
+
+.educatino .myeducation .small{
+   margin-top:50px 
+   
+    
+}
+.educatino  .grde{
+    float: right;
+    width:50%;
+        padding: 25px 0px 0px 0px
+    
+        
+        
+}
+
+.educatino  .grde .wr{
+    padding: 15px;
+       
+}
+
+.educatino  .grde .wr button{
+    
+    background-color: #2ACE6F;
+    color: aliceblue;
+    border: none;
+    height: 23px;
+    width: 50px;
+    padding: 5px;
+    overflow: hidden;
+    font-size: 10px;
+    font-weight:900
+    
+    
+}
+
+/*end educatino*/
+/*star owrck*/
+.work{
+    margin: 50px;
+    
+    overflow: hidden
+    
+}
+.work .hr{
+   color: #f4f6f7;
+}
+.work .mywork{
+    
+    float: left;
+    
+    width: 50%
+        
+}
+.work .wep{
+    float: right;
+    width:50%;
+        padding: 25px 0px 0px 0px
+       
+}
+
+.work .mywork .small{
+    
+    margin-top:50px 
+}
+.work  .wep .wr{
+    padding: 15px;
+    
+}
+.work  .wep .wr p{
+   color: #B7B7B7;
+}
+.work  .wep .wr button{
+        
+    background-color: #2ACE6F;
+    color: aliceblue;
+    border: none;
+    height: 23px;
+    width: 50px;
+    padding: 5px;
+    overflow: hidden;
+    font-size: 10px;
+    font-weight:900
+    
+}
+
+/*end owrck*/
+/*start john*/
+.john{
+    
+    background-color: #F2F2F2;
+    
+}
+.john .myjohn{
+    
+    text-align:center;
+    padding: 40px 80px
+        
+}
+
+.john .myjohn lu{
+    list-style: none;
+    text-align: center;
+    padding-left: 0px
+}
+.john .myjohn lu li{
+    border: 2px solid  #2ACE6F;
+    width: 12px;
+    height: 12px;
+    display: inline-block
+}
+.john lu   li.hover ,
+.john .myjohn lu li:hover{
+    background-color: #2ACE6F;
+    cursor:progress
+}
+/*end john*/
+/*start port*/
+.port .myport{
+    text-align:center;
+    padding: 30px
+        
+}
+.port .all{
+    overflow: hidden;
+    margin: 20px
+    
+    
+    
+}
+
+
+.port .all .smallall img{
+    width: 30.3333%;
+    
+    
+    padding: 10px
+}
+
+
+/*end port*/
+/*start contactme*/
+.contact{
+    color:aliceblue;
+    
+    background-color:#252F31;
+    overflow: hidden;
+    padding: 85px 0px 85px 0px
+        
+}
+.contact .contactme{
+    
+    float:left
+}
+.contact .contactus{
+    
+    float:right
+}
+
+.contact .contactus .form .input{
+    background-color: #4B5557;
+   margin: 20px;
+    width:100%;
+     height:30px;
+    border: none
+    
+    
+    
+}
+.contact .contactus .form .email{
+    
+     background-color: #4B5557;
+    margin: 20px;
+     width:100%;
+    height:30px;
+    border: none
+}
+.contact .contactus .form .text{
+    background-color: #4B5557;
+    margin: 20px;
+     width:100%;
+    height: 200px;
+        border: none
+
+}
+.contact .contactus .form .but{
+    color: aliceblue;
+    
+    background-color: #171F22;
+    margin: 20px;
+    border: none;
+    padding: 8px 20px
+        
+       
+
+}
+
+/*end contactme*/
+/*star end */
+.end{
+    
+    
+    background-color: #171F22;
+    text-align:center
+}
+.end .theend a{
+    background-image: url("../image/5.png");
+    width: 20px;
+    height: 20px
+    
+    
+}
+
+
+/*end end*/
+.left{float: left;}
+
+.right{float: right}
+p{color: #B7B7B7;line-height: 1}
+
+
+
+/*.navbar li/* لاحظ اننا ال نستطيع ان ننادي علي الي من خلال ال يول ولنما ننادي ليها من خلال النافبار*/
+    
+
+   
